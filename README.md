@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Maxim ###
+ ## A software engineer hopeful to get his hands on more projects#
 
-<!--
-**MaximPodgore/MaximPodgore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Currently learning spring back-end
 
-Here are some ideas to get you started:
+📫 How to reach me maximjulianpodgore@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 Know about my experiences here on my resume
+
+Connect with me:
+liammohler liammohler
+
+Languages and Tools:
+bash c csharp express git spring java javascript matlab angular nodejs r python tomcat
