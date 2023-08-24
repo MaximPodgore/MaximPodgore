@@ -9,7 +9,7 @@
 
 Connect with me:
 
-![linkedin](https://www.linkedin.com/in/maxim-podgore-810037226/)
+[linkedin](https://www.linkedin.com/in/maxim-podgore-810037226/)
 
 Languages and Tools:
 bash c csharp express git spring java javascript matlab angular  r python tomcat
