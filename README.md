@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maxim</h1>
-<h3 align="center">A software engineer hopeful to get his hands on more project</h3>
+<h3 align="center">A software engineer grinding out work experience rn</h3>
 
-- 🔭 I’m currently working on [TheBackend](https://github.com/MaximPodgore/TheBackend)
+- 🔭 I’m currently working on UCSD's flutter Mobile App
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **maximjulianpodgore@gmail.com**
 
