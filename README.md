@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **maximjulianpodgore@gmail.com**
 
-- 📄 Know about my experiences: [resume](https://docs.google.com/document/d/1dnrmI43Ynyuo8bV4J_mECnmV5JFxRD5_N2Xxh5unus4/edit)
+- 📄 Know about my experiences: [resume](https://docs.google.com/document/d/1dnrmI43Ynyuo8bV4J_mECnmV5JFxRD5_N2Xxh5unus4/edit) (outdated)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
