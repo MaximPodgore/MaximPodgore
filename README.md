@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maxim</h1>
-<h3 align="center">I'm a software developer with experience in UI/UX, Front-End, Mobile Development, AI, and Database fields. Also, I'm doing Machine Learning and Bioinformatics research in academia</h3>
+<h3 align="center">I'm a software developer with experience in AI, Mobile Development, UI/UX, Front-End, and Database fields. I'm also doing Machine Learning and Bioinformatics research in academia.</h3>
 
 - 🔭 I’m currently working on [A Monte-Carlo Tree BBO Algorithm](https://github.com/MaximPodgore/MCTD)
 
