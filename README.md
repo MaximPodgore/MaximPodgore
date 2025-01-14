@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maxim</h1>
-<h6 align="center">I'm a software developer and researcher focused on Artificial Intelligence, with current research in Black-Box Optimization and Scalable Red-teaming. I have also worked on
-Mobile Development, UI/UX, Front-End, Database, and Bioinformatics teams</h6>
+<h4 align="left">I'm a software developer and researcher focused on Artificial Intelligence, with current research in Black-Box Optimization and Scalable Red-teaming. I have also worked on
+Mobile Development, UI/UX, Front-End, Database, and Bioinformatics teams</h4>
 
 - 🔭 I’m currently working on [improving TuRBO](https://github.com/MaximPodgore/TuRBO-O)
 - 🌱 I’m currently learning **Svelte and GPytorch**
