@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maxim</h1>
-<h3 align="center">I'm a software developer with experience in AI, Mobile Development, UI/UX, Front-End, and Database fields. I'm also doing Artificial Intelligence and Bioinformatics research in academia.</h3>
+<h3 align="center">I'm a software developer and researcher focused on Artificial Intelligence, with current research in Black-Box Optimization and Scalable Red-teaming. I have also worked on
+Mobile Development, UI/UX, Front-End, Database, and Bioinformatics teams</h3>
 
-- 🔭 I’m currently working on [A Monte-Carlo Tree BBO Algorithm](https://github.com/MaximPodgore/MCTD)
-
-- 🌱 I’m currently learning **Svelte, Tailwind, and Pytorch**
+- 🔭 I’m currently working on [improving TuRBO](https://github.com/MaximPodgore/TuRBO-O)
+- 🌱 I’m currently learning **Svelte and GPytorch**
 
 - 📫 How to reach me **maximjulianpodgore@gmail.com**
 
