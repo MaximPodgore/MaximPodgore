@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **maximjulianpodgore@gmail.com**
 
-- 📄 Know about my [experience][(https://drive.google.com/file/d/1PD33LXKAvahglNb8PXABW5SKtvlo0ev1/view?usp=sharing](https://drive.google.com/file/d/17LWef6AVqyd6buY0huGNoBM3mKRu9RTA/view?usp=sharing)
+- 📄 Know about my [experience](https://drive.google.com/file/d/17LWef6AVqyd6buY0huGNoBM3mKRu9RTA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
