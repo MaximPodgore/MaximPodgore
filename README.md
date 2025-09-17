@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Maxim and I'm a Machine Learning Engineer from UCSD</h2>
 
+I've done a good amount of work using and extending LLM functionality, some AI research, and hopped between a bunch of other projects. I'm always happy to collaborate on new projects. My links are available below and my resume is available [here](https://www.overleaf.com/read/tdxkcthczvjy#ea2120) 
+
 ###
 
 <div align="center">
